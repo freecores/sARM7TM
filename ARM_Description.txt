@@ -6,3 +6,5 @@ Features that are not implemented currently:
 
 If you find any bug in this core don't hesitate to contact me.
 
+Notes:
+12.02.2003  - The multiplier had been changed but wasn't tested deeply.
