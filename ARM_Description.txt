@@ -1,0 +1,8 @@
+This is very crude variant of ARM core. ARM7TM was used as a prototype for this model. Definitely there are a lot of bugs and holes in it and some features are not implemented for the moment. 
+Features that are not implemented currently:
+1. Thumb decoder is not implemented (but will be implemented).
+2. No coprocessor interface.
+3. Memory interface for the moment indicates non-sequential transactions only.
+
+If you find any bug in this core don't hesitate to contact me.
+
